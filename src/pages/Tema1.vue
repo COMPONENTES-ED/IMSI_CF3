@@ -39,7 +39,7 @@
             img(src='@/assets/curso/temas/tema1/imgicono.png', alt='Imagen decorativa')
     
     .row.justify-content-center.mb-5
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-3
         .tarjeta.bg2.brad.p-4.h-100
           .row.justify-content-center.align-items-center
             .col-sm-6.col-lg-6.mb-4.mb-lg-0.d-lg-block.d-none
@@ -48,7 +48,7 @@
             b Aplicaciones críticas: 
             | identificar las aplicaciones que requieren alta velocidad de transmisión, como sistemas de videoconferencia, aplicaciones de colaboración en tiempo real y servicios de #[em streaming.]
 
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-3
         .tarjeta.bg2.brad.p-4.h-100
           .row.justify-content-center.align-items-center
             .col-sm-6.col-lg-5.mb-4.mb-lg-0.d-lg-block.d-none
@@ -57,10 +57,10 @@
             b Número de usuarios: 
             | evaluar el número de usuarios concurrentes y el tipo de tráfico que generan. Una red con muchos usuarios requerirá una mayor velocidad de transmisión para evitar cuellos de botella.
 
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-3
         .tarjeta.bg2.brad.p-4.h-100
           .row.justify-content-center.align-items-center
-            .col-sm-6.col-lg-9.mb-4.mb-lg-0
+            .col-sm-6.col-lg-9.mb-4.mb-lg-0.d-lg-block.d-none
               img.imgfig(src='@/assets/curso/temas/tema1/img6.svg' alt='AvatarTop')
           p 
             b Crecimiento futuro: 
@@ -608,11 +608,11 @@
     p.mb-4 El dimensionamiento y la escalabilidad mejoran la disponibilidad de la red asegurando que los recursos estén disponibles incluso en caso de fallos. Esto incluye la implementación de redundancia, la distribución de la carga de trabajo y la planificación de contingencias.
     
     .row.justify-content-center
-      .col-lg-5
+      .col-lg-5.mb-lg-0.mb-3
         .tarjeta--morada.color-primario.p-4.h-100.mb-5
           .row
             .col-2
-              figure
+              figure.mb-3
                 img(src='@/assets/curso/temas/tema1/img37.svg', alt='Texto que describa la imagen')
           h5 Reducción de costos
           p El dimensionamiento y la escalabilidad permiten reducir los costos de la red mediante la optimización del uso de recursos. Esto incluye la selección de equipos adecuados, la planificación de capacidad y la implementación de soluciones escalables que pueden adaptarse a cambios en la demanda sin necesidad de inversiones adicionales.
@@ -620,7 +620,7 @@
         .tarjeta--verde.color-primario.p-4.h-100
           .row
             .col-2
-              figure
+              figure.mb-3
                 img(src='@/assets/curso/temas/tema1/img38.svg', alt='Texto que describa la imagen')
           h5 Importancia en el análisis y planificación de Redes
           p El dimensionamiento y la escalabilidad se requieren para el análisis y la planificación de redes porque aseguran que la red pueda satisfacer las necesidades actuales y futuras de manera eficiente y efectiva. La evaluación de necesidades, la selección de equipos, el diseño de la topología y la planificación de capacidad son pasos infalibles en el proceso de planificación de redes. La capacidad de la red para crecer y adaptarse a cambios en la demanda es importante para mantener un rendimiento óptimo y asegurar la disponibilidad de los servicios.
