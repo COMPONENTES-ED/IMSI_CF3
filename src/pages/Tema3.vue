@@ -301,7 +301,7 @@
         óptima.
       </p>
       <div class="row justify-content-center align-items-center mb-5">
-        <div class="col-sm-6 col-lg-4 mb-4 mb-lg-0">
+        <div class="col-sm-6 col-lg-4 col-6 mb-4 mb-lg-0">
           <img src="@/assets/curso/temas/tema3/img13.svg" alt="alt" />
         </div>
         <div class="col-lg-8">
@@ -358,7 +358,7 @@
             <h4>Utilidad de los manuales de instalación</h4>
           </div>
           <div class="row justify-content-center align-items-center mb-3">
-            <div class="col-sm-6 col-lg-2 mb-4 mb-lg-0">
+            <div class="col-sm-6 col-lg-2 col-6 mb-4 mb-lg-0">
               <img src="@/assets/curso/temas/tema3/img15.svg" alt="alt" />
             </div>
             <div class="col-lg-10">
@@ -409,7 +409,7 @@
         <h4>Contenido de una guía de configuración</h4>
       </div>
       <div class="row justify-content-center align-items-center mb-5">
-        <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0">
+        <div class="col-sm-6 col-lg-3 col-6 mb-4 mb-lg-0">
           <img src="@/assets/curso/temas/tema3/img16.png" alt="alt" />
         </div>
         <div class="col-lg-9 bg10">
@@ -534,7 +534,7 @@
         <div class="col-lg-4 mb-4">
           <div class="tarjeta bg4 p-4 h-100">
             <div class="row justify-content-center mb-5">
-              <div class="col-3">
+              <div class="col-lg-3 col-4">
                 <figure>
                   <img
                     src="@/assets/curso/temas/tema3/img27.svg"
@@ -838,7 +838,7 @@
             </div>
           </AccordionRED>
         </div>
-        <div class="col-sm-6 col-lg-4 mb-4 mb-lg-0">
+        <div class="col-sm-6 col-lg-4 col-6 mb-4 mb-lg-0">
           <img src="@/assets/curso/temas/tema3/img26.svg" alt="alt" />
         </div>
       </div>

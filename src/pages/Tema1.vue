@@ -133,7 +133,7 @@
         .tarjeta
           .tarjeta.bg4.w-100.p-4
             .row.justify-content-center.align-items-center
-              .col-sm-2.col-lg-4.mb-4.mb-lg-0
+              .col-sm-2.col-lg-4.col-6.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img10.svg' alt='Imagen decorativa')
               .col-lg-8 
                 p 
@@ -143,7 +143,7 @@
         .tarjeta
           .tarjeta.bg4.w-100.p-4
             .row.justify-content-center.align-items-center
-              .col-sm-2.col-lg-4.mb-4.mb-lg-0
+              .col-sm-2.col-lg-4.col-6.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img11.svg' alt='Imagen decorativa')
               .col-lg-8
                 p 
@@ -196,7 +196,7 @@
         .tarjeta
           .tarjeta.bg3.w-100.p-4
             .row.justify-content-center.align-items-center
-              .col-sm-4.col-lg-4.mb-4.mb-lg-0
+              .col-sm-4.col-lg-4.col-6.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img14.svg' alt='Imagen decorativa')
               .col-lg-8 
                 p 
@@ -206,7 +206,7 @@
         .tarjeta
           .tarjeta.bg3.w-100.p-4
             .row.justify-content-center.align-items-center
-              .col-sm-4.col-lg-4.mb-4.mb-lg-0
+              .col-sm-4.col-lg-4.col-6.mb-4.mb-lg-0
                 img(src='@/assets/curso/temas/tema1/img15.svg' alt='Imagen decorativa')
               .col-lg-8
                 p 
@@ -217,11 +217,11 @@
       h4 Puntos de acceso
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-4.col-lg-3.mb-4.mb-lg-0
+      .col-sm-4.col-lg-3.mb-4.mb-lg-0.col-6
         img(src='@/assets/curso/temas/tema1/img16.svg' alt='Imagen decorativa')
       .col-lg-8.bg6.p-4
         .row.justify-content-center.align-items-center.mb-3
-          .col-sm-2.col-lg-1.mb-4.mb-lg-0
+          .col-sm-2.col-lg-1.mb-4.mb-lg-0.col-6
             img(src='@/assets/curso/temas/tema1/img17.svg' alt='Imagen decorativa')
           .col-lg-11
             p
@@ -229,7 +229,7 @@
               | proporcionan conectividad inalámbrica a los dispositivos de la red. Deben ser seleccionados en función de la cobertura, la capacidad y las características de seguridad.
         
         .row.justify-content-center.align-items-center.mb-3
-          .col-sm-2.col-lg-1.mb-4.mb-lg-0
+          .col-sm-2.col-lg-1.mb-4.mb-lg-0.col-6
             img(src='@/assets/curso/temas/tema1/img18.svg' alt='Imagen decorativa')
           .col-lg-11
             p
@@ -588,7 +588,7 @@
         p El dimensionamiento y la escalabilidad permiten optimizar el rendimiento de la red asegurando que los recursos estén disponibles cuando y donde se necesiten. Esto incluye la distribución equitativa del tráfico, la priorización de aplicaciones críticas y la reducción de la latencia.
         .cajon.color-primario.p-4.mb-4
           .row.justify-content-center.align-items-center
-            .col-sm-2.col-lg-2.mb-4.mb-lg-0
+            .col-sm-2.col-lg-2.mb-4.mb-lg-0.col-6
               img(src='@/assets/curso/temas/tema1/img34.svg' alt='AvatarTop')
             .col-lg-10
               p La siguiente figura proporciona una representación visual clara y organizada de cómo el dimensionamiento y la escalabilidad contribuyen a la optimización del rendimiento de la red, asegurando la disponibilidad de recursos, la distribución equitativa del tráfico, la priorización de aplicaciones críticas y la reducción de la latencia.

@@ -318,6 +318,7 @@
             </h5>
             <div class="imgicon order-1">
               <img
+                class=""
                 src="@/assets/curso/temas/tema1/imgicono.png"
                 alt="Imagen decorativa"
               />
@@ -326,14 +327,14 @@
         </div>
       </div>
       <div class="row justify-content-center align-items-center mb-5">
-        <div class="col-sm-6 col-lg-4 mb-4 mb-lg-0">
+        <div class="col-sm-6 col-lg-4 col-6 mb-4 mb-lg-0">
           <img src="@/assets/curso/temas/tema2/img9.svg" alt="alt" />
         </div>
         <div class="col-lg-8">
           <AccordionRED tipo="a" clase-tarjeta="tarjeta">
             <div titulo="Cuarto de telecomunicaciones principal">
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img21.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -345,7 +346,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-3 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img22.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -357,7 +358,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img23.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -371,7 +372,7 @@
             </div>
             <div titulo="Cuarto de telecomunicaciones intermedio">
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img21.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -383,7 +384,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img22.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -395,7 +396,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img23.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -410,7 +411,7 @@
             </div>
             <div titulo="Cuarto de telecomunicaciones de acceso">
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img21.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -422,7 +423,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img22.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -434,7 +435,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img23.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -545,7 +546,7 @@
             <div class="tarjeta brad p-4" titulo="Distribución horizontal">
               <h5>Distribución horizontal</h5>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img21.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -558,7 +559,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img22.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -570,7 +571,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img23.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -585,7 +586,7 @@
             <div class="tarjeta brad p-4" titulo="Distribución vertical">
               <h5>Distribución vertical</h5>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img21.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -597,7 +598,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img22.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -609,7 +610,7 @@
                 </div>
               </div>
               <div class="row justify-content-center align-items-center mb-3">
-                <div class="col-sm-2 col-lg-1 mb-4 mb-lg-0">
+                <div class="col-sm-2 col-lg-1 col-6 mb-4 mb-lg-0">
                   <img src="@/assets/curso/temas/tema2/img23.svg" alt="alt" />
                 </div>
                 <div class="col-lg-11">
@@ -662,7 +663,7 @@
             </div>
           </TabsA>
         </div>
-        <div class="col-sm-6 col-lg-4 mb-4 mb-lg-0">
+        <div class="col-sm-6 col-6 col-lg-4 mb-4 mb-lg-0">
           <img
             src="@/assets/curso/temas/tema2/img16.svg"
             alt="Texto que describa la imagen"
