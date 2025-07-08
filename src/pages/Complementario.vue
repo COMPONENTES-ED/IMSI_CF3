@@ -69,21 +69,21 @@ export default {
         {
           tema: '2. Diseño de infraestructura',
           referencia:
-            'William Hernández Hernández. (2020, 27 noviembre). Cableado Estructurado [Vídeo]. YouTube. ',
+            'Leonardo Duarte. (2016, 31 julio). Cableado estructurado [Vídeo]. YouTube. https://www.youtube.com/watch?v=9G6fxwp9Ix4 ',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=Y9Od-Tmm688',
+          link: 'https://www.youtube.com/watch?v=9G6fxwp9Ix4',
         },
         {
           tema: '2. Diseño de infraestructura',
           referencia:
-            'William Hernández Hernández. (2020, 27 noviembre). Cableado Estructurado [Vídeo]. YouTube. ',
+            'William Hernández Hernández. (2020, 27 noviembre). Cableado Estructurado [Vídeo]. YouTube. https://www.youtube.com/watch?v=Y9Od-Tmm688 ',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=Y9Od-Tmm688',
         },
         {
           tema: '3. Implementación de redes físicas',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023b, octubre 30). Gestión de recursos tecnológicos [Vídeo]. YouTube. ',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 30). Gestión de recursos tecnológicos [Vídeo]. YouTube. https://www.youtube.com/watch?v=bkxr4xMfNJM',
           tipo: 'Video',
           link:
             'https://www.youtube.com/watch?v=slz86MF43YE&list=PLkc5n6npRWkhW66Y8rGD6IOF2dZUDiApU&index=27',
@@ -91,7 +91,7 @@ export default {
         {
           tema: '4. Optimización y mejores prácticas',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023a, octubre 30). Gestión de dispositivos de red [Vídeo]. YouTube. ',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 30). Gestión de dispositivos de red [Vídeo]. YouTube. https://www.youtube.com/watch?v=slz86MF43YE ',
           tipo: 'Video',
           link:
             'https://www.youtube.com/watch?v=bkxr4xMfNJM&list=PLkc5n6npRWkhW66Y8rGD6IOF2dZUDiApU&index=23',
