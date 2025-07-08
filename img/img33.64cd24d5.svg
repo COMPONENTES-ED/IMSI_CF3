@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="71" viewBox="0 0 71 71">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_403471" data-name="Rectángulo 403471" width="71" height="71" transform="translate(852.051 10300)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="img33" transform="translate(-852.051 -10300)" clip-path="url(#clip-path)">
+    <g id="red-de-area-local" transform="translate(848.378 10296.328)">
+      <g id="Grupo_1103723" data-name="Grupo 1103723">
+        <path id="path4" d="M62.431,67.327h2.448L66.1,73.447h-4.9Z" fill="#79d0fc" fill-rule="evenodd"/>
+        <path id="path8" d="M37.948,19.586H40.4l1.224,6.121h-4.9Z" fill="#79d0fc" fill-rule="evenodd"/>
+        <path id="path12" d="M13.466,67.327h2.448l1.224,6.121h-4.9Z" fill="#79d0fc" fill-rule="evenodd"/>
+        <path id="path16" d="M14.714,67.567l1.224,6.121,2.4-.48-1.224-6.121Z" fill="#143342" fill-rule="evenodd"/>
+        <path id="path20" d="M63.678,67.567,64.9,73.687l2.4-.48-1.224-6.121Z" fill="#143342" fill-rule="evenodd"/>
+        <path id="path24" d="M39.2,19.826l1.224,6.121,2.4-.48L41.6,19.346Z" fill="#143342" fill-rule="evenodd"/>
+        <path id="path28" d="M13.442,73.687l1.224-6.121-2.4-.48-1.224,6.121Z" fill="#143342" fill-rule="evenodd"/>
+        <path id="path32" d="M62.407,73.687l1.224-6.121-2.4-.48-1.224,6.121Z" fill="#143342" fill-rule="evenodd"/>
+        <path id="path36" d="M37.924,25.947l1.224-6.121-2.4-.48-1.224,6.121Z" fill="#143342" fill-rule="evenodd"/>
+      </g>
+      <path id="rect40" d="M29.38,4.9H48.966V19.586H29.38Z" fill="#30b0f0" fill-rule="evenodd"/>
+      <path id="path44" d="M50.189,4.9a1.224,1.224,0,0,0-1.224-1.224H29.379A1.225,1.225,0,0,0,28.155,4.9V19.586a1.225,1.225,0,0,0,1.225,1.224H48.965a1.224,1.224,0,0,0,1.224-1.224ZM47.742,6.121V18.362H30.6s0-12.241,0-12.241Z" fill="#143342" fill-rule="evenodd"/>
+      <path id="rect48" d="M4.9,52.637H24.482V67.326H4.9Z" fill="#30b0f0" fill-rule="evenodd"/>
+      <path id="path52" d="M25.707,52.637a1.225,1.225,0,0,0-1.225-1.224H4.9a1.226,1.226,0,0,0-1.225,1.224V67.327A1.225,1.225,0,0,0,4.9,68.551H24.483a1.226,1.226,0,0,0,1.225-1.224Zm-2.448,1.224V66.1H6.122V53.861Z" fill="#143342" fill-rule="evenodd"/>
+      <path id="rect56" d="M29.379,56.309h4.9V73.447h-4.9Z" fill="#79d0fc" fill-rule="evenodd"/>
+      <path id="path60" d="M35.5,56.309a1.224,1.224,0,0,0-1.224-1.224h-4.9a1.224,1.224,0,0,0-1.224,1.224V73.447a1.224,1.224,0,0,0,1.224,1.224h4.9A1.224,1.224,0,0,0,35.5,73.447Zm-2.448,1.224V72.223H30.6V57.534Z" fill="#143342" fill-rule="evenodd"/>
+      <path id="rect64" d="M44.069,56.309h4.9V73.447h-4.9Z" fill="#79d0fc" fill-rule="evenodd"/>
+      <path id="path68" d="M50.189,56.309a1.224,1.224,0,0,0-1.224-1.224h-4.9a1.224,1.224,0,0,0-1.224,1.224V73.447a1.224,1.224,0,0,0,1.224,1.224h4.9a1.224,1.224,0,0,0,1.224-1.224Zm-2.448,1.224V72.223H45.293V57.534Z" fill="#143342" fill-rule="evenodd"/>
+      <path id="rect72" d="M53.862,8.569h4.9V25.706h-4.9Z" fill="#79d0fc" fill-rule="evenodd"/>
+      <path id="path76" d="M59.982,12.242V8.569a1.224,1.224,0,0,0-1.224-1.224h-4.9a1.224,1.224,0,0,0-1.224,1.224V25.707a1.224,1.224,0,0,0,1.224,1.224h4.9a1.224,1.224,0,0,0,1.224-1.224V22.034a1.224,1.224,0,0,0-2.448,0v2.448H55.086V9.793h2.448v2.448a1.224,1.224,0,0,0,2.448,0Z" fill="#143342" fill-rule="evenodd"/>
+      <circle id="circle80" cx="1.224" cy="1.224" r="1.224" transform="translate(42.845 29.379)" fill="#a3212e"/>
+      <circle id="circle84" cx="1.224" cy="1.224" r="1.224" transform="translate(18.362 46.516)" fill="#a3212e"/>
+      <circle id="circle88" cx="1.224" cy="1.224" r="1.224" transform="translate(67.327 46.516)" fill="#a3212e"/>
+      <circle id="circle92" cx="1.224" cy="1.224" r="1.224" transform="translate(57.535 15.913)" fill="#143342"/>
+      <circle id="circle96" cx="1.224" cy="1.224" r="1.224" transform="translate(33.051 29.379)" fill="#a3212e"/>
+      <circle id="circle100" cx="1.224" cy="1.224" r="1.224" transform="translate(8.569 46.516)" fill="#a3212e"/>
+      <circle id="circle104" cx="1.224" cy="1.224" r="1.224" transform="translate(57.535 46.516)" fill="#a3212e"/>
+      <path id="rect108" d="M53.862,52.637H73.448V67.326H53.862Z" fill="#30b0f0" fill-rule="evenodd"/>
+      <path id="path112" d="M74.672,52.637a1.225,1.225,0,0,0-1.225-1.224H53.862a1.225,1.225,0,0,0-1.225,1.224V67.327a1.226,1.226,0,0,0,1.225,1.224H73.448a1.226,1.226,0,0,0,1.225-1.224Zm-2.448,1.224V66.1H55.086s0-12.241,0-12.241Z" fill="#143342" fill-rule="evenodd"/>
+      <path id="path116" d="M29.379,26.931H48.965a1.224,1.224,0,0,0,0-2.448H29.379a1.224,1.224,0,1,0,0,2.448Z" fill="#143342" fill-rule="evenodd"/>
+      <path id="path120" d="M40.4,40.4V30.6a1.224,1.224,0,1,0-2.448,0V40.4a1.224,1.224,0,1,0,2.448,0Z" fill="#a3212e" fill-rule="evenodd"/>
+      <path id="path124" d="M6.121,74.671H23.259a1.224,1.224,0,0,0,0-2.448H6.121a1.224,1.224,0,1,0,0,2.448Z" fill="#143342" fill-rule="evenodd"/>
+      <path id="path128" d="M55.086,74.671H72.223a1.224,1.224,0,0,0,0-2.448H55.086a1.224,1.224,0,0,0,0,2.448Z" fill="#143342" fill-rule="evenodd"/>
+      <path id="path132" d="M15.913,47.741V44.068H36.724a1.224,1.224,0,0,0,0-2.448H14.69a1.223,1.223,0,0,0-1.224,1.224v4.9a1.224,1.224,0,1,0,2.447,0Z" fill="#a3212e" fill-rule="evenodd"/>
+      <path id="path136" d="M64.879,47.741v-4.9a1.223,1.223,0,0,0-1.224-1.224H41.621a1.224,1.224,0,0,0,0,2.448H62.432v3.672a1.224,1.224,0,1,0,2.447,0Z" fill="#a3212e" fill-rule="evenodd"/>
+      <circle id="ellipse140" cx="2.448" cy="2.448" r="2.448" transform="translate(36.725 40.396)" fill="#f0eb60"/>
+      <path id="path144" d="M39.172,39.172a3.672,3.672,0,1,0,3.672,3.672A3.674,3.674,0,0,0,39.172,39.172Zm0,2.448a1.224,1.224,0,1,1-1.224,1.224A1.225,1.225,0,0,1,39.172,41.62Z" fill="#143342" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
