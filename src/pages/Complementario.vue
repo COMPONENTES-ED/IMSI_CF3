@@ -61,7 +61,7 @@ export default {
         {
           tema: '1. Análisis y planificación de redes',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2021, 30 marzo). Conceptos básicos y componentes de una red [Vídeo]. YouTube.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2021, 30 marzo). Conceptos básicos y componentes de una red [Vídeo]. YouTube. https://www.youtube.com/watch?v=Rr8POxBrOlo',
           tipo: 'Video',
           link:
             'https://www.youtube.com/watch?v=Rr8POxBrOlo&list=PLkc5n6npRWkhW66Y8rGD6IOF2dZUDiApU&index=3',
