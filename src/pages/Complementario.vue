@@ -85,16 +85,14 @@ export default {
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 30). Gestión de recursos tecnológicos [Vídeo]. YouTube. https://www.youtube.com/watch?v=bkxr4xMfNJM',
           tipo: 'Video',
-          link:
-            'https://www.youtube.com/watch?v=slz86MF43YE&list=PLkc5n6npRWkhW66Y8rGD6IOF2dZUDiApU&index=27',
+          link: 'https://www.youtube.com/watch?v=bkxr4xMfNJM',
         },
         {
           tema: '4. Optimización y mejores prácticas',
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 30). Gestión de dispositivos de red [Vídeo]. YouTube. https://www.youtube.com/watch?v=slz86MF43YE ',
           tipo: 'Video',
-          link:
-            'https://www.youtube.com/watch?v=bkxr4xMfNJM&list=PLkc5n6npRWkhW66Y8rGD6IOF2dZUDiApU&index=23',
+          link: 'https://www.youtube.com/watch?v=slz86MF43YE',
         },
       ]
     },
